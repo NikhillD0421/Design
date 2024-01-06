@@ -1,0 +1,179 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .clear{
+    clear: both;
+  }
+
+ 
+  
+  .topnav {
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  .topnav-right {
+    float: right;
+  }
+
+  .fa-brands {
+    padding: 10px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa-brands:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-instagram {
+    background: red;
+    color: white;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+
+.text_image {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  /* Bottom left text */
+  .centered {
+    position: absolute;
+    text-align: center;
+    bottom: 8px;
+    color: white;
+  }
+  
+.room{
+  text-align: center;
+  width: 100%;
+  color: black;
+}
+
+.room_column {
+  
+  padding: 5px;
+}
+
+.room_column img{
+  width: 100%;
+}
+.room_row {
+
+  padding: 5px;
+}
+.room_row img{
+  width: 100%;
+}
+
+
+.facility{
+  text-align: center;
+  width: 100%;
+  height: 1400px;
+  color: black;
+}
+
+.fimage1{
+  text-align: center;
+  float:left;
+  padding: 20px;
+  
+}
+
+.fimage2{
+  text-align: center;
+  float: right;
+  padding: 20px;
+}
+
+.fimage3{
+  text-align: center;
+  float: left;
+  padding: 20px;
+}
+
+.fimage4{
+  padding: 20px;
+  float: right;
+  text-align: center;
+}
+
+.fimage5{
+  text-align: center;
+  float: left;
+  padding: 20px;
+}
+
+.testonomial{
+  text-align: center;
+  width: 100%;
+  color: black;
+}
+.testonomial_box{
+  position: relative;
+  width: 1200px;
+  height: 300px;
+  margin: 240px auto;
+  background: #D63434;
+}
+.testonomial_box.box{
+  position: relative;
+  width: calc(400px -30px);
+  height: calc(300px -30px);
+  background: #D63434;
+  float:center;
+  margin: 15px;
+}
+.col{
+  color: White;
+  background-color: black;
+}
+.connect{
+  background-color: black;
+}  
+.left{
+    float: right;
+}

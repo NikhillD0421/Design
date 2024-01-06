@@ -1,0 +1,68 @@
+.clear{
+    clear: both;
+}
+.full_page_color{
+    background-color: black;
+}
+
+.cover_page_left_image{
+    height: 300px;
+    width: 300px;
+    
+    
+}
+.food_the_way{
+    color: white;
+    text-align: center;
+}
+.food_details{
+    color: white;
+    text-align: left;
+}
+.fa-left{
+    background-color: white;
+}
+
+.reserve{
+  margin: auto;
+  background-color: #373434;
+  color: #D9D163;
+  border: 3px solid #707070;
+  width: 200px;  
+  height: 50px;     
+  justify-content: center;  
+  
+}
+
+.img_vintuna{
+    height: 300px;
+    width: 300px;
+    float: right;
+    padding: 10px;
+}
+.abt_us{
+    color: white;
+    padding: 10px; ;
+}
+.about_us_details{
+    color: white;
+    padding: 10px;
+}
+
+.review{
+    color:#B8AC57 ;
+    text-align: center;
+}
+
+.full_menu{
+    color: white;
+    text-align: center;
+}
+
+.intro{
+    color: white;
+    float: right;
+ 
+}
+
+
